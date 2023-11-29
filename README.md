@@ -2,8 +2,8 @@
 ## My name is Vitor Siqueira and my nickname is "Vitor"!
 
 
-- 🔭 I’m currently studing Computer Science at Universidade Estadual do Centro-Oeste
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently fineshing my graduation in Computer Science at Universidade Estadual do Centro-Oeste
+- 🌱 I’m currently learning more of Angular and React
 - 🤔 I’m looking for help with BackEnd development
 - 😄 Pronouns: he/him
 
@@ -14,7 +14,7 @@
 
 <div>
 <a href="https://github.com/VitorSiqueira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSiqueira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSiqueira&layout=compact&langs_count=10&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
