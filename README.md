@@ -2,9 +2,11 @@
 ## My name is Vitor Siqueira and my nickname is "Vitor"!
 
 
-- 🔭 I’m currently fineshing my graduation in Computer Science at Universidade Estadual do Centro-Oeste
-- 🌱 I’m currently learning more of Angular and React
-- 🤔 I’m looking for help with BackEnd development
+- 🔭 I’m gratuared in Computer Science at Universidade Estadual do Centro-Oeste (Unicentro)
+- 🌱 I’m currently learning more of Ruby, Rails
+- 🤔 I’m looking for help with Full-stack development
+- 😄 I have a little experience with tests involving cypress and vitest
+- 🤯 I'm also studing more of back-end tests
 - 😄 Pronouns: he/him
 
 
